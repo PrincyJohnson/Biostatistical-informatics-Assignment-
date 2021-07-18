@@ -163,7 +163,7 @@ geneA_ph
 plot(geneA_ph[1,])
 abline(h=0,lty=3)
 
-#QUESTION 4
+#QUESTION 5
 
 library(ggplot2)
 mydata$TumourStage[mydata$TumourStage == 1] <- "T1"
