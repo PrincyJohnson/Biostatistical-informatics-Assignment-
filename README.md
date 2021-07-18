@@ -1,5 +1,6 @@
 # Biostatistical-informatics-Assignment-
 There will be two assignments available in this section.
+
                                                                **Assignment 1**
 **Background:**
 This dataset (assignI.txt) consists of a group of cancer patients who have received one of two treatments (drug I or II). The dataset consists of the following variables:Age (at treatment start) (Years)Stage (at treatment start): Tumour Stage, I or IISex: Male or FemaleTreatment: Drug I or Drug II over six weeksOS: overall survival from treatment startOS status: 1 if the patient died, 0 if the patient was alive at last follow-upResponse: If the patient’s tumour had reduced at six weeks (responder), or if the patient’s tumour had not reduced (non-responder) Protein 1: a protein (as detected in blood at end of treatment ie six weeks)
